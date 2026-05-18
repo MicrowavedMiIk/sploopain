@@ -1,11 +1,11 @@
 (function() {
     'use strict';
 
-    // -----------------------------------------------------------------------
+    // ----------------------------------------------------------------------
     // author: me
     // description: automates(you still have to click the keys) heal/spike/trap usage via websocket injection
     // NOTE: javascript is so weird, why is there no main() method
-    // -----------------------------------------------------------------------
+    // ----------------------------------------------------------------------
 
     // cooldowns are in ticks (120/sec)
     // heal = 4 ticks, spike = 2, trap = 3
